@@ -1,6 +1,44 @@
 body {
-  color: blue:
+  color: White;
+  background: Black;
+
 }
-head {
-  color: red:
+p {
+  padding: 110px 40px;
+  font-size: 25px;
+
+}
+table.content {
+  font-size: 30px;
+  margin: -21px 100px;
+  border-spacing: 50px;
+  border: 5px solid White;
+}
+td {
+  padding: 0px 25px;
+}
+
+table.HeaderTable {
+  background-color: LightBlue;
+  border: 0px solid LightBlue;
+  border-radius: 10px;
+  z-index: 0;
+  position: fixed;
+  width: 0%;
+  border-spacing: 10px 0px ;
+  text-align: left;
+
+}
+.borderline {
+  border: 2px solid Black;
+  padding: 1px;
+  opacity: 1.0;
+
+}
+img:hover{
+  opacity: 1.0.;
+
+}
+.borderline:hover{
+  opacity: 0.5
 }
